@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    background: rgb(214, 197, 255);
+    
+}
+header{
+    background-image: url(https://цветочныйрай.рф/upload/medialibrary/c02/c0266aa63ff5aa3948dab0a43e920424.jpg) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+header h1{
+    color: white;
+    margin-left: 20px;
+}
+nav{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+}
+main{
+    margin-top: 50px;
+}
+td{
+    text-align: center;
+}
+table img{
+    border: 1px solid white;
+    padding: 5px;
+    background-color: white;
+    border-radius: 50px;
+}
+main h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 36px;
+}
+main p{
+    margin-left:20px ;
+    font-size: 18px;
+    background-color: rgba(255, 255, 255, 0.597);
+    padding: 5px;
+}
